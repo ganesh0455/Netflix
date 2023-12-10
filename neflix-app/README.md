@@ -2,6 +2,10 @@
 
     Create react app
     Configured Tailwing CSS
+    Header 
+    Authentication Form
+        Login form
+        Sign up 
 # Features
     Login & Sign up feature
         if credentials correct then navigate to Browse page otherwise keep in login page
